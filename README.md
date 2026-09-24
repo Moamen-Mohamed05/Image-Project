@@ -149,7 +149,7 @@ Rename app.py in the structure if your main file has a different name.
 
 🚀 Installation
 1. Clone the Repository
-git clone https://github.com/your-username/image-processing-app.git
+git clone https://github.com/Moamen-Mohamed05/Image-Project
 cd image-processing-app
 
 2. Create a Virtual Environment
